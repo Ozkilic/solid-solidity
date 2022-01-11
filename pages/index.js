@@ -3,10 +3,6 @@ import PrimaryButton from '../components/primary-button'
 import { ethers } from 'ethers'
 import { UserCircleIcon } from '@heroicons/react/solid'
 
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-// import {
-//   faUserCircle, // the user circle icon
-// } from '@fortawesome/free-solid-svg-icons'
 import addressesEqual from '../utils/addressesEqual'
 import abi from '../utils/Keyboards.json'
 import Keyboard from '../components/keyboard'
